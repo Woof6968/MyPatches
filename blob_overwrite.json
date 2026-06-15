@@ -13,7 +13,6 @@
     "color": "light_green",
     "contains": "10 L",
     "seals": true,
-    "flags": [ "FLUIDTANK" ],
     "watertight": true
   },
   {
@@ -38,7 +37,6 @@
     "color": "light_gray",
     "contains": "30 L",
     "seals": true,
-    "flags": [ "FLUIDTANK" ],
     "watertight": true
   },
   {
