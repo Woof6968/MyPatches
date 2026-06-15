@@ -13,6 +13,7 @@
     "color": "light_green",
     "contains": "10 L",
     "seals": true,
+    "flags": [ "FLUIDTANK" ],
     "watertight": true
   },
   {
@@ -37,6 +38,7 @@
     "color": "light_gray",
     "contains": "30 L",
     "seals": true,
+    "flags": [ "FLUIDTANK" ],
     "watertight": true
   },
   {
@@ -45,7 +47,7 @@
     "name": { "str": "gray tank", "str_pl": "gray tanks" },
     "copy-from": "gray_tank",
     "volume": "100 L",
-    "contains": 400
+    "contains": "100 L"
   },
   {
     "id": "frostie_hull",
