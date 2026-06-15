@@ -20,6 +20,7 @@
     "type": "CONTAINER",
     "name": { "str": "gelatinous tank", "str_pl": "gelatinous tanks" },
     "copy-from": "gloople_tank",
+    "volume": "15 L",
     "contains": "60 L"
   },
   {
